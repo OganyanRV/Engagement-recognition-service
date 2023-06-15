@@ -1,0 +1,1 @@
+Здесь находится датасет wilder face в нужном для yolo формате. Получено в коде `yolov5/yolov5_train.ipynb`
